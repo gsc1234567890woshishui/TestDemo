@@ -27,5 +27,7 @@ dependencies {
     compile 'com.github.frank-zhu:pullzoomview:1.0.0'
     compile 'com.dinuscxj:pullzoomrecyclerview:1.0.2'
     compile 'com.android.support:recyclerview-v7:24.2.0'
-    compile 'com.squareup.picasso:picasso:2.3.2'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'cn.finalteam:galleryfinal:1.4.6'
+    compile 'com.android.support:support-v4:23.1.1'
 }
